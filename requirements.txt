@@ -85,7 +85,7 @@ pysmi==0.3.4
 pysnmp==4.4.6
 python-dateutil==2.7.3
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==19.0.0
 scikit-learn==0.20.0
 scipy==1.1.0
