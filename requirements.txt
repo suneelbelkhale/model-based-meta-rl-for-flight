@@ -13,7 +13,7 @@ cffi==1.11.5
 chardet==3.0.4
 colorlog==3.1.4
 contextvars==2.4
-cryptography==2.6.1
+cryptography==3.2
 cycler==0.10.0
 Cython==0.28.5
 decorator==4.3.0
