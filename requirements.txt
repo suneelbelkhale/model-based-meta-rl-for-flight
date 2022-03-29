@@ -60,7 +60,7 @@ overrides==2.8.0
 pandas==0.23.4
 pandoc==1.0.2
 pandocfilters==1.4.2
-paramiko==2.4.2
+paramiko==2.10.1
 parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.5
