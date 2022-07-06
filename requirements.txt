@@ -31,7 +31,7 @@ graphics.py==5.0.1.post1
 grpcio==1.15.0
 gym==0.10.5
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.7
 imageio==2.4.1
 immutables==0.11
